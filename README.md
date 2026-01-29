@@ -1,4 +1,4 @@
-👋 Hi, I’m Sunny — aka StackDevMark  
+👋 Hi, I’m Sunny —  StackDevMark  
 
 🚀 Full-Stack Web Developer | Frontend • Backend • UI/UX Designer  
 I design and build modern, fast, scalable, and user-friendly web applications.
